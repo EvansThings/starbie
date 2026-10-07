@@ -14,12 +14,16 @@
 
 ## Contents
 
-1. [2026-10-06 — Work session](#2026-10-06-work-session)
+1. [2026-10-06 — I started on the schematic today! After installing the symbol and footprint libraries, I started following the [github guide](https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md)](#2026-10-06-i-started-on-the-schematic-today-after-installing)
 
 ## Design
 
-### 2026-10-06 — Work session
+### 2026-10-06 — I started on the schematic today! After installing the symbol and footprint libraries, I started following the [github guide](https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md)
 
 **0.82h**
+
+I started on the schematic today! After installing the symbol and footprint libraries, I started following the [github guide](https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md) and finished the schematic! Tomorrow I will begin making the PCB.
+![Screenshot 2026-10-06 192859](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/SwyaOG0LIzKQ3qLvJ1ZwgEKOGjrqBRaH/ebe2bca68833e17d84c1bff99b0f32aa80d165cf4c2d5afe413c341479e0e37a.png)
+> I will look into it more, but I will probably add some more features like a camera... we'll see :)
 
 [Timelapse](https://lookout.hackclub.com/api/media/e4799f63-7026-4c33-9cc7-2a9f8a460b21/video.mp4)
